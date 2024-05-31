@@ -1,0 +1,43 @@
+{
+  "$type": "BetterPartyFinder.Configuration, BetterPartyFinder",
+  "Version": 1,
+  "Presets": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[BetterPartyFinder.ConfigurationFilter, BetterPartyFinder]], System.Private.CoreLib",
+    "188880b8-6741-4d37-b5c0-979314c6f4ee": {
+      "$type": "BetterPartyFinder.ConfigurationFilter, BetterPartyFinder",
+      "Name": "<unnamed preset>",
+      "DutiesMode": 1,
+      "Duties": [],
+      "Categories": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "Jobs": [],
+      "SearchArea": 4294967295,
+      "LootRule": 4294967295,
+      "DutyFinderSettings": 4294967295,
+      "Conditions": 4294967295,
+      "Objectives": 4294967295,
+      "AllowHugeItemLevel": true,
+      "MinItemLevel": null,
+      "MaxItemLevel": null,
+      "Players": []
+    }
+  },
+  "SelectedPreset": "188880b8-6741-4d37-b5c0-979314c6f4ee",
+  "ShowWhenPfOpen": false,
+  "WindowSide": 0,
+  "ShowDescriptionOnJoin": true
+}

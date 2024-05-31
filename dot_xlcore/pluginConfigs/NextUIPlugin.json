@@ -1,0 +1,40 @@
+{
+  "$type": "NextUIPlugin.Configuration.NextUIConfiguration, NextUIPlugin",
+  "socketPort": 32805,
+  "firstInstalled": false,
+  "overlays": [
+    {
+      "$type": "NextUIPlugin.Configuration.OverlayConfig, NextUIPlugin",
+      "Guid": "d7d2c2c2-6458-4ec6-b2b3-7073bfba8fca",
+      "Name": "New Overlay",
+      "Url": "https://bsides.github.io/horizoverlay/?HOST_PORT=ws://127.0.0.1:10501/",
+      "Size": "1251|201",
+      "Position": "1097|3",
+      "FullScreen": false,
+      "ClickThrough": true,
+      "TypeThrough": true,
+      "Locked": true,
+      "Hidden": false,
+      "VisibilityShow": 0,
+      "VisibilityHide": 0,
+      "FullScreenSize": "3440|1440"
+    },
+    {
+      "$type": "NextUIPlugin.Configuration.OverlayConfig, NextUIPlugin",
+      "Guid": "57585ab3-9ecf-4690-95ca-0c7f113b6bf6",
+      "Name": "Cactshit",
+      "Url": "https://quisquous.github.io/cactbot/ui/raidboss/raidboss_alerts_only.html?OVERLAY_WS=ws://127.0.0.1:10501/ws",
+      "Size": "800|600",
+      "Position": "150|300",
+      "FullScreen": false,
+      "ClickThrough": true,
+      "TypeThrough": true,
+      "Locked": true,
+      "Hidden": false,
+      "VisibilityShow": 0,
+      "VisibilityHide": 0,
+      "FullScreenSize": "3440|1440"
+    }
+  ],
+  "Version": 3
+}

@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Name": "Twelveshood",
+    "Tag": "Aegis",
+    "Leader": "Vhal Arda",
+    "ServerId": 405
+  },
+  "Item2": [
+    {
+      "Name": "Azeyma",
+      "Arrival": "2024-06-01T20:42:23Z",
+      "Type": 2
+    },
+    {
+      "Name": "Nophica",
+      "Arrival": "2024-06-01T23:31:57Z",
+      "Type": 2
+    },
+    {
+      "Name": "Halone",
+      "Arrival": "2024-06-01T20:42:52Z",
+      "Type": 2
+    },
+    {
+      "Name": "Menphina",
+      "Arrival": "2024-06-01T23:33:54Z",
+      "Type": 2
+    }
+  ]
+}

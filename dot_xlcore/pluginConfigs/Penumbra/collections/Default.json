@@ -1,0 +1,17 @@
+﻿{
+  "Version": 1,
+  "Name": "Default",
+  "Settings": {
+    "Material 4K-UI v6.2.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Material 4K-UI v6.4.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    }
+  },
+  "Inheritance": []
+}

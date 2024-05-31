@@ -1,0 +1,22 @@
+{
+  "$type": "Mastercraft.Configuration, Mastercraft",
+  "Rotations": [
+    {
+      "$type": "Mastercraft.Rotation, Mastercraft",
+      "Name": "Craft Basics",
+      "Actions": [
+        100403
+      ],
+      "Food": null,
+      "Potion": null,
+      "Craftsmanship": 0,
+      "Control": 0,
+      "Cp": 0
+    }
+  ],
+  "IconsJob": 9,
+  "SkipQualityWhenMax": true,
+  "SaveByregots": true,
+  "DebugLog": false,
+  "Version": 1
+}

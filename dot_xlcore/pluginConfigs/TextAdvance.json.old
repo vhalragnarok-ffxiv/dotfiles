@@ -1,0 +1,57 @@
+{
+  "$type": "TextAdvance.Config, TextAdvance",
+  "AutoEnableNames": [
+    "Vhal Ragnarok@Midgardsormr",
+    "Ragnar Great@Midgardsormr",
+    "Ragnar Fluffy@Midgardsormr",
+    "Ragnar Bun@Midgardsormr",
+    "Ragnar Catgurl@Midgardsormr",
+    "Ragnar Longneck@Midgardsormr",
+    "Ragnar Lorgeboi@Midgardsormr",
+    "Vhal Ragnarok@Sargatanas",
+    "Dragon's Enemy@Maduin",
+    "Hran Selnir@Maduin",
+    "Vhal Ragnarok@Maduin",
+    "Thor's Hammer@Maduin",
+    "Major Commander@Maduin",
+    "Alex Terrible@Maduin",
+    "Meme Lord@Maduin",
+    "God King@Maduin",
+    "Vhal Namazu@Sargatanas",
+    "Vhal Yandere@Sargatanas",
+    "Vhal Stone@Sargatanas",
+    "Vhal Lumberjack@Sargatanas",
+    "Vhal Nym@Seraph",
+    "Vhal Ragnarok@Seraph",
+    "Vhal Tehp@Seraph",
+    "Vhal Golmarr@Seraph",
+    "Vhal Arda@Seraph",
+    "Vhal Twin@Seraph",
+    "Vhal Ymir@Seraph",
+    "Vhal Viras@Seraph"
+  ],
+  "TempEnableButton": 0,
+  "TempDisableButton": 0,
+  "MainConfig": {
+    "$type": "TextAdvance.TerritoryConfig, TextAdvance",
+    "EnableQuestAccept": true,
+    "EnableQuestComplete": true,
+    "EnableRequestHandin": true,
+    "EnableCutsceneEsc": true,
+    "EnableCutsceneSkipConfirm": true,
+    "EnableTalkSkip": true
+  },
+  "TerritoryConditions": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[TextAdvance.TerritoryConfig, TextAdvance]], System.Private.CoreLib"
+  },
+  "GlobalOverridesLocal": false,
+  "EnableOverlay": true,
+  "OverlayOffset": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": -10.0
+  },
+  "NotifyDisableManualState": false,
+  "NotifyDisableOnLogin": false,
+  "Version": 2
+}

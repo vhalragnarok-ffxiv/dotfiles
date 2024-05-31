@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Name": "Antioch",
+    "Tag": "Bun",
+    "Leader": "Vhal Yandere",
+    "ServerId": 99
+  },
+  "Item2": [
+    {
+      "Name": "Lead Balloon",
+      "Arrival": "0001-01-01T00:00:00",
+      "Type": 1
+    },
+    {
+      "Name": "",
+      "Arrival": "0001-01-01T00:00:00",
+      "Type": 0
+    },
+    {
+      "Name": "",
+      "Arrival": "0001-01-01T00:00:00",
+      "Type": 0
+    },
+    {
+      "Name": "",
+      "Arrival": "0001-01-01T00:00:00",
+      "Type": 0
+    }
+  ]
+}

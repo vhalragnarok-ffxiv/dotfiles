@@ -1,0 +1,32 @@
+{
+  "$type": "ChatAlerts.ChatAlertsConfig, ChatAlerts",
+  "Alerts": [
+    {
+      "$type": "ChatAlerts.Alert, ChatAlerts",
+      "Channels": [
+        10,
+        11,
+        30,
+        14,
+        15,
+        24
+      ],
+      "Name": "New Alert",
+      "Content": "",
+      "SoundPath": "",
+      "Volume": 0.5,
+      "HighlightForeground": 500,
+      "HighlightGlow": 0,
+      "SoundEffect": 38,
+      "Enabled": true,
+      "IsRegex": false,
+      "IgnoreCase": true,
+      "CustomSound": false,
+      "SenderAlert": false,
+      "IncludeHidden": false,
+      "Highlight": true,
+      "PlaySound": false
+    }
+  ],
+  "Version": 2
+}

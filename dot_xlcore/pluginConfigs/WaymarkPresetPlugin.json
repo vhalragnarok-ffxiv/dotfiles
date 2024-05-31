@@ -1,0 +1,6059 @@
+{
+  "$type": "WaymarkPresetPlugin.Configuration, WaymarkPresetPlugin",
+  "mSortPresetsByZone": true,
+  "mAlwaysShowInfoPane": false,
+  "mAllowUnselectPreset": false,
+  "mFilterOnCurrentZone": false,
+  "mShowIDNumberNextToZoneNames": false,
+  "mShowLibraryIndexInPresetList": false,
+  "mAutoPopulatePresetsOnEnterInstance": true,
+  "mAutoSavePresetsOnInstanceLeave": true,
+  "mSuppressCommandLineResponses": false,
+  "mOpenAndCloseWithFieldMarkerAddon": false,
+  "mAttachLibraryToFieldMarkerAddon": false,
+  "mAllowPresetDragAndDropOrdering": true,
+  "mAllowZoneDragAndDropOrdering": true,
+  "mSortZonesDescending": false,
+  "mShowLibraryZoneFilterBox": true,
+  "Version": 0,
+  "PresetLibrary": {
+    "$type": "WaymarkPresetPlugin.WaymarkPresetLibrary, WaymarkPresetPlugin",
+    "Presets": [
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2022-10-05T20:50:00.5693018+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.015,
+          "Y": 0.0,
+          "Z": 86.212,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 116.397,
+          "Y": 0.0,
+          "Z": 91.908,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.864,
+          "Y": 0.0,
+          "Z": 100.02,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.083,
+          "Y": 0.0,
+          "Z": 113.694,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.228,
+          "Y": 0.0,
+          "Z": 100.011,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.681,
+          "Y": 0.0,
+          "Z": 90.36,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.262,
+          "Y": 0.0,
+          "Z": 90.265,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.32,
+          "Y": 0.0,
+          "Z": 99.954,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2022-10-05T20:50:07.2311322+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.69,
+          "Y": 0.0,
+          "Z": -9.998,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.738,
+          "Y": 0.0,
+          "Z": 19.232,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.218,
+          "Y": 0.0,
+          "Z": 8.121,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 5.03,
+          "Y": 0.0,
+          "Z": -2.579,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.122,
+          "Y": 0.0,
+          "Z": -6.96,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.505,
+          "Y": 0.0,
+          "Z": 5.109,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.949,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.006,
+          "Y": 0.0,
+          "Z": 9.72,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2022-10-05T20:50:11.9146429+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.69,
+          "Y": 0.0,
+          "Z": -9.998,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.737,
+          "Y": 0.0,
+          "Z": 19.232,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.218,
+          "Y": 0.0,
+          "Z": 8.121,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.355,
+          "Y": 0.0,
+          "Z": -3.225,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.122,
+          "Y": 0.0,
+          "Z": -6.96,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.505,
+          "Y": 0.0,
+          "Z": 5.109,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.948,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.006,
+          "Y": 0.0,
+          "Z": 9.72,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Weapon's Refrain (Ultimate) - AutoImported",
+        "MapID": 539,
+        "Time": "2022-10-05T20:50:19.4739631+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.873,
+          "Y": 0.0,
+          "Z": 93.378,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.874,
+          "Y": 0.0,
+          "Z": 100.005,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.896,
+          "Y": 0.0,
+          "Z": 106.607,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.821,
+          "Y": 0.0,
+          "Z": 100.003,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.862,
+          "Y": 0.0,
+          "Z": 99.983,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.335,
+          "Y": 0.0,
+          "Z": 87.358,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.847,
+          "Y": 0.0,
+          "Z": 81.842,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.388,
+          "Y": 0.0,
+          "Z": 106.207,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Minstrel's Ballad: Ultima's Bane - AutoImported",
+        "MapID": 68,
+        "Time": "2022-10-05T20:50:24.761671+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 5.541,
+          "Y": -0.069,
+          "Z": 0.229,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -10.272,
+          "Y": -0.096,
+          "Z": 0.134,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.082,
+          "Y": -0.082,
+          "Z": -5.816,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 12.698,
+          "Y": 0.068,
+          "Z": 15.115,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.809,
+          "Y": -0.131,
+          "Z": 18.852,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -9.781,
+          "Y": 0.068,
+          "Z": -7.899,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Binding Coil of Bahamut - Turn 4 - AutoImported",
+        "MapID": 96,
+        "Time": "2022-10-05T20:50:30.0705719+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 22.747,
+          "Y": -0.05,
+          "Z": -11.1,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 11.612,
+          "Y": -0.05,
+          "Z": 21.903,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -24.536,
+          "Y": -0.049,
+          "Z": 6.674,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.715,
+          "Y": 0.058,
+          "Z": -4.8,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.131,
+          "Y": 0.058,
+          "Z": -9.443,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -8.286,
+          "Y": 0.0,
+          "Z": 4.998,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 8.414,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.163,
+          "Y": 0.058,
+          "Z": 9.486,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2022-10-05T20:50:34.7604902+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.0,
+          "Y": 0.0,
+          "Z": 84.0,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 116.0,
+          "Y": 0.0,
+          "Z": 100.0,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.0,
+          "Y": 0.0,
+          "Z": 116.0,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.0,
+          "Y": 0.0,
+          "Z": 100.0,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.0,
+          "Y": 0.0,
+          "Z": 100.0,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.0,
+          "Y": 0.0,
+          "Z": 100.0,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.0,
+          "Y": 0.0,
+          "Z": 108.0,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.0,
+          "Y": 0.0,
+          "Z": 108.0,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2022-10-05T20:50:39.5902657+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 20.607,
+          "Y": 0.0,
+          "Z": -11.133,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.498,
+          "Y": 0.0,
+          "Z": 22.795,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -21.746,
+          "Y": 0.0,
+          "Z": 9.726,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 5.03,
+          "Y": 0.0,
+          "Z": -2.58,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.122,
+          "Y": 0.0,
+          "Z": -6.961,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.505,
+          "Y": 0.0,
+          "Z": 5.109,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.95,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.213,
+          "Y": 0.0,
+          "Z": 8.838,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2022-10-05T20:50:44.4674182+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -2.086,
+          "Y": 0.0,
+          "Z": 11.284,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -2.056,
+          "Y": 0.0,
+          "Z": 14.029,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -1.95,
+          "Y": 0.0,
+          "Z": 16.611,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -1.83,
+          "Y": 0.0,
+          "Z": 19.104,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 1.741,
+          "Y": 0.0,
+          "Z": 10.715,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 1.865,
+          "Y": 0.0,
+          "Z": 13.892,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 1.815,
+          "Y": 0.0,
+          "Z": 17.035,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 1.991,
+          "Y": 0.0,
+          "Z": 19.382,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2022-10-05T20:50:49.3380397+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.69,
+          "Y": 0.0,
+          "Z": -9.998,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.738,
+          "Y": 0.0,
+          "Z": 19.232,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.218,
+          "Y": 0.0,
+          "Z": 8.121,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 5.03,
+          "Y": 0.0,
+          "Z": -2.579,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.122,
+          "Y": 0.0,
+          "Z": -6.96,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.505,
+          "Y": 0.0,
+          "Z": 5.109,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.949,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.212,
+          "Y": 0.0,
+          "Z": 8.838,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Eden's Gate: Sepulture (Savage) - AutoImported",
+        "MapID": 690,
+        "Time": "2022-10-05T20:50:53.8680728+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.971,
+          "Y": 0.0,
+          "Z": 90.375,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.106,
+          "Y": 0.0,
+          "Z": 109.976,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.457,
+          "Y": 0.0,
+          "Z": 85.385,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.482,
+          "Y": 0.0,
+          "Z": 84.294,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.91,
+          "Y": 0.0,
+          "Z": 90.624,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.954,
+          "Y": 0.0,
+          "Z": 110.339,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Second Circle - AutoImported",
+        "MapID": 810,
+        "Time": "2022-10-05T20:50:58.4265175+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.307,
+          "Y": 0.5,
+          "Z": 87.467,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.579,
+          "Y": 0.5,
+          "Z": 87.283,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.333,
+          "Y": 0.499,
+          "Z": 112.502,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.44,
+          "Y": 0.5,
+          "Z": 112.548,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.611,
+          "Y": 0.5,
+          "Z": 93.619,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.413,
+          "Y": 0.499,
+          "Z": 93.473,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.34,
+          "Y": 0.5,
+          "Z": 106.591,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.641,
+          "Y": 0.5,
+          "Z": 106.38,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The First Circle (Savage) - AutoImported",
+        "MapID": 809,
+        "Time": "2022-10-05T20:51:03.4638569+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.854,
+          "Y": 0.0,
+          "Z": 96.569,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 103.782,
+          "Y": 0.0,
+          "Z": 99.862,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.016,
+          "Y": 0.0,
+          "Z": 103.701,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 96.456,
+          "Y": 0.0,
+          "Z": 100.134,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.931,
+          "Y": 0.0,
+          "Z": 89.96,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.196,
+          "Y": 0.0,
+          "Z": 89.949,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.043,
+          "Y": 0.0,
+          "Z": 110.034,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.961,
+          "Y": 0.0,
+          "Z": 110.136,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Second Circle (Savage) - AutoImported",
+        "MapID": 811,
+        "Time": "2022-10-05T20:51:09.0016357+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.897,
+          "Y": 0.5,
+          "Z": 87.06,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.074,
+          "Y": 0.5,
+          "Z": 86.809,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.037,
+          "Y": 0.499,
+          "Z": 113.254,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.987,
+          "Y": 0.5,
+          "Z": 112.871,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.955,
+          "Y": 0.0,
+          "Z": 90.159,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.599,
+          "Y": 0.0,
+          "Z": 100.163,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.003,
+          "Y": 0.0,
+          "Z": 109.36,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.568,
+          "Y": 0.0,
+          "Z": 99.952,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Third Circle (Savage) - AutoImported",
+        "MapID": 807,
+        "Time": "2022-10-05T20:51:14.5255146+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.151,
+          "Y": 0.0,
+          "Z": 86.356,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.86,
+          "Y": 0.0,
+          "Z": 114.358,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.925,
+          "Y": 0.0,
+          "Z": 114.379,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.922,
+          "Y": 0.0,
+          "Z": 85.598,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.055,
+          "Y": 0.0,
+          "Z": 94.035,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.032,
+          "Y": 0.0,
+          "Z": 99.975,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.19,
+          "Y": 0.0,
+          "Z": 105.946,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.094,
+          "Y": 0.0,
+          "Z": 100.07,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Third Circle (Savage) - AutoImported",
+        "MapID": 807,
+        "Time": "2022-10-05T20:51:19.3757414+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.201,
+          "Y": 0.0,
+          "Z": 89.278,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.834,
+          "Y": 0.0,
+          "Z": 89.116,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.539,
+          "Y": 0.0,
+          "Z": 111.053,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.596,
+          "Y": 0.0,
+          "Z": 110.516,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.976,
+          "Y": 0.0,
+          "Z": 93.368,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.345,
+          "Y": 0.0,
+          "Z": 99.773,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.951,
+          "Y": 0.0,
+          "Z": 107.321,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.36,
+          "Y": 0.0,
+          "Z": 99.642,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Fourth Circle (Savage) - AutoImported",
+        "MapID": 801,
+        "Time": "2022-10-05T20:51:24.2879163+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.19,
+          "Y": 0.0,
+          "Z": 81.149,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 119.685,
+          "Y": 0.0,
+          "Z": 99.687,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.038,
+          "Y": 0.0,
+          "Z": 119.318,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 80.221,
+          "Y": 0.0,
+          "Z": 99.603,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.727,
+          "Y": 0.0,
+          "Z": 94.976,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.233,
+          "Y": 0.0,
+          "Z": 95.022,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 104.916,
+          "Y": 0.0,
+          "Z": 105.06,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.92,
+          "Y": 0.0,
+          "Z": 104.952,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Asphodelos: The Fourth Circle (Savage) - AutoImported",
+        "MapID": 801,
+        "Time": "2022-10-05T20:51:29.818769+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.054,
+          "Y": 0.0,
+          "Z": 84.89,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.2,
+          "Y": 0.0,
+          "Z": 104.983,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.898,
+          "Y": 0.0,
+          "Z": 115.005,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.001,
+          "Y": 0.0,
+          "Z": 94.815,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 97.084,
+          "Y": 0.0,
+          "Z": 80.713,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 119.437,
+          "Y": 0.0,
+          "Z": 96.647,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 103.114,
+          "Y": 0.0,
+          "Z": 119.336,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 81.048,
+          "Y": 0.0,
+          "Z": 104.333,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2022-10-05T20:51:35.3148563+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.018,
+          "Y": 0.0,
+          "Z": 86.689,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.766,
+          "Y": 0.0,
+          "Z": 91.446,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.034,
+          "Y": 0.0,
+          "Z": 113.141,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.238,
+          "Y": 0.0,
+          "Z": 100.036,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.393,
+          "Y": 0.0,
+          "Z": 99.91,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.77,
+          "Y": 0.0,
+          "Z": 99.932,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.019,
+          "Y": 0.0,
+          "Z": 107.495,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.488,
+          "Y": 0.0,
+          "Z": 107.503,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Deltascape V1.0 (Savage) - AutoImported",
+        "MapID": 256,
+        "Time": "2022-10-05T20:51:40.199643+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.218,
+          "Y": 0.0,
+          "Z": -15.662,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 12.487,
+          "Y": 0.0,
+          "Z": -12.825,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.207,
+          "Y": 0.0,
+          "Z": 1.549,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 12.854,
+          "Y": 0.0,
+          "Z": 12.411,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.755,
+          "Y": 0.0,
+          "Z": 17.063,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -13.017,
+          "Y": 0.0,
+          "Z": 12.099,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -18.148,
+          "Y": 0.0,
+          "Z": -0.806,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -11.932,
+          "Y": 0.0,
+          "Z": -11.672,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Deltascape V2.0 (Savage) - AutoImported",
+        "MapID": 257,
+        "Time": "2022-10-05T20:51:44.9796197+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.018,
+          "Y": 0.0,
+          "Z": -5.992,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.04,
+          "Y": 0.0,
+          "Z": 5.908,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.037,
+          "Y": 0.0,
+          "Z": -0.145,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 1.645,
+          "Y": 0.0,
+          "Z": -17.44,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.464,
+          "Y": 0.0,
+          "Z": 0.707,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.222,
+          "Y": 0.0,
+          "Z": 18.838,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -18.633,
+          "Y": 0.0,
+          "Z": 0.699,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Deltascape V2.0 (Savage) - AutoImported",
+        "MapID": 257,
+        "Time": "2022-10-05T20:51:49.4127004+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.017,
+          "Y": 0.0,
+          "Z": -5.992,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.039,
+          "Y": 0.0,
+          "Z": 5.907,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.037,
+          "Y": 0.0,
+          "Z": -0.144,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.405,
+          "Y": 0.0,
+          "Z": -17.844,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.576,
+          "Y": 0.0,
+          "Z": 0.574,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.169,
+          "Y": 0.0,
+          "Z": 18.774,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.147,
+          "Y": 0.0,
+          "Z": 0.934,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Deltascape V3.0 (Savage) - AutoImported",
+        "MapID": 258,
+        "Time": "2022-10-05T20:51:54.5546524+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 10.189,
+          "Y": 0.0,
+          "Z": -10.407,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 9.624,
+          "Y": 0.0,
+          "Z": 10.131,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -9.622,
+          "Y": 0.0,
+          "Z": 9.846,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -10.042,
+          "Y": 0.0,
+          "Z": -10.234,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.134,
+          "Y": 0.0,
+          "Z": -9.569,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 10.024,
+          "Y": 0.0,
+          "Z": 0.127,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.251,
+          "Y": 0.0,
+          "Z": 9.792,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -10.03,
+          "Y": 0.0,
+          "Z": -0.03,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Deltascape V4.0 (Savage) - AutoImported",
+        "MapID": 259,
+        "Time": "2022-10-05T20:52:01.2943149+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.432,
+          "Y": 0.0,
+          "Z": -8.21,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.884,
+          "Y": 0.0,
+          "Z": 1.294,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.263,
+          "Y": 0.0,
+          "Z": 9.185,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.825,
+          "Y": 0.0,
+          "Z": 1.433,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.408,
+          "Y": 0.0,
+          "Z": 0.557,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Dragonsong's Reprise (Ultimate) - AutoImported",
+        "MapID": 788,
+        "Time": "2022-10-05T20:52:06.1926189+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.942,
+          "Y": 0.0,
+          "Z": 87.113,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.833,
+          "Y": 0.0,
+          "Z": 90.137,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.254,
+          "Y": 0.0,
+          "Z": 99.896,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.146,
+          "Y": 0.0,
+          "Z": 109.614,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.285,
+          "Y": 0.0,
+          "Z": 113.05,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.479,
+          "Y": 0.0,
+          "Z": 109.788,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.944,
+          "Y": 0.0,
+          "Z": 99.941,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.458,
+          "Y": 0.0,
+          "Z": 90.586,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Dragonsong's Reprise (Ultimate) - AutoImported",
+        "MapID": 788,
+        "Time": "2022-10-05T20:52:10.9106233+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.91,
+          "Y": 0.0,
+          "Z": 92.026,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.756,
+          "Y": 0.0,
+          "Z": 107.917,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.041,
+          "Y": 0.0,
+          "Z": 107.89,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.228,
+          "Y": 0.0,
+          "Z": 91.938,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.048,
+          "Y": 0.0,
+          "Z": 86.222,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.868,
+          "Y": 0.0,
+          "Z": 112.67,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.453,
+          "Y": 0.0,
+          "Z": 113.477,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.438,
+          "Y": 0.0,
+          "Z": 86.753,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Final Coil of Bahamut - Turn 1 - AutoImported",
+        "MapID": 107,
+        "Time": "2022-10-05T20:52:15.5242676+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 0,
+          "Active": false
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 1,
+          "Active": false
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 23.135,
+          "Y": 0.0,
+          "Z": -313.076,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.185,
+          "Y": 0.04,
+          "Z": -319.043,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.746,
+          "Y": 0.039,
+          "Z": -300.144,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 19.696,
+          "Y": 0.039,
+          "Z": -300.063,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.103,
+          "Y": 0.039,
+          "Z": -280.759,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Final Coil of Bahamut - Turn 3 - AutoImported",
+        "MapID": 109,
+        "Time": "2022-10-05T20:52:20.0408718+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.008,
+          "Y": -53.682,
+          "Z": -146.196,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -14.127,
+          "Y": -53.682,
+          "Z": -156.915,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 2,
+          "Active": false
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.026,
+          "Y": -53.682,
+          "Z": -171.384,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.25,
+          "Y": -53.682,
+          "Z": -163.055,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.249,
+          "Y": -53.682,
+          "Z": -163.894,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.194,
+          "Y": -53.682,
+          "Z": -156.808,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Final Coil of Bahamut - Turn 4 - AutoImported",
+        "MapID": 110,
+        "Time": "2022-10-05T20:52:25.5938353+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 450.075,
+          "Y": 0.0,
+          "Z": -14.423,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 465.39,
+          "Y": 0.0,
+          "Z": 1.178,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 450.13,
+          "Y": 0.0,
+          "Z": 16.259,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 437.112,
+          "Y": 0.0,
+          "Z": -0.793,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 459.334,
+          "Y": 0.0,
+          "Z": -9.022,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 458.513,
+          "Y": 0.0,
+          "Z": 11.231,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 442.046,
+          "Y": 0.0,
+          "Z": 10.164,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 442.268,
+          "Y": 0.0,
+          "Z": -12.241,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Storm's Crown (Extreme) - AutoImported",
+        "MapID": 871,
+        "Time": "2022-10-05T20:52:31.0538265+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.879,
+          "Y": 0.0,
+          "Z": 86.658,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.927,
+          "Y": 0.0,
+          "Z": 99.541,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.499,
+          "Y": 0.0,
+          "Z": 115.288,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.154,
+          "Y": 0.0,
+          "Z": 100.096,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.748,
+          "Y": 0.0,
+          "Z": 90.859,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.243,
+          "Y": 0.0,
+          "Z": 110.234,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.28,
+          "Y": 0.0,
+          "Z": 110.413,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.218,
+          "Y": 0.0,
+          "Z": 91.224,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Storm's Crown (Extreme) - AutoImported",
+        "MapID": 871,
+        "Time": "2022-10-05T20:52:38.6694974+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.833,
+          "Y": 0.0,
+          "Z": 84.882,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.781,
+          "Y": 0.0,
+          "Z": 100.526,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 115.602,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 83.607,
+          "Y": 0.0,
+          "Z": 99.398,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.226,
+          "Y": 0.0,
+          "Z": 93.79,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.759,
+          "Y": 0.0,
+          "Z": 106.051,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.249,
+          "Y": 0.0,
+          "Z": 106.049,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.094,
+          "Y": 0.0,
+          "Z": 93.83,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Storm's Crown (Extreme) - AutoImported",
+        "MapID": 871,
+        "Time": "2022-10-05T20:52:43.9289625+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.833,
+          "Y": 0.0,
+          "Z": 84.882,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.78,
+          "Y": 0.0,
+          "Z": 100.526,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 115.601,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 83.607,
+          "Y": 0.0,
+          "Z": 99.398,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.225,
+          "Y": 0.0,
+          "Z": 93.79,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.337,
+          "Y": 0.0,
+          "Z": 105.85,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.98,
+          "Y": 0.0,
+          "Z": 93.906,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Storm's Crown (Extreme) - AutoImported",
+        "MapID": 871,
+        "Time": "2022-10-05T20:52:48.1326928+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.833,
+          "Y": 0.0,
+          "Z": 84.882,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.78,
+          "Y": 0.0,
+          "Z": 100.526,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 115.601,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 83.607,
+          "Y": 0.0,
+          "Z": 99.398,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.225,
+          "Y": 0.0,
+          "Z": 93.79,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.337,
+          "Y": 0.0,
+          "Z": 105.85,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.173,
+          "Y": 0.0,
+          "Z": 105.866,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.98,
+          "Y": 0.0,
+          "Z": 93.906,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Fifth Circle (Savage) - AutoImported",
+        "MapID": 873,
+        "Time": "2022-10-05T20:52:52.9339707+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.035,
+          "Y": -300.0,
+          "Z": 92.76,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.042,
+          "Y": -300.0,
+          "Z": 100.075,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.969,
+          "Y": -300.0,
+          "Z": 107.0,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.997,
+          "Y": -300.0,
+          "Z": 99.974,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.507,
+          "Y": -300.0,
+          "Z": 89.391,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.858,
+          "Y": -300.0,
+          "Z": 110.693,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.313,
+          "Y": -300.0,
+          "Z": 110.697,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.524,
+          "Y": -300.0,
+          "Z": 89.502,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Sixth Circle (Savage) - AutoImported",
+        "MapID": 881,
+        "Time": "2022-10-05T20:52:58.8398145+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.149,
+          "Y": 0.0,
+          "Z": 89.72,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.04,
+          "Y": 0.0,
+          "Z": 99.856,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.955,
+          "Y": 0.0,
+          "Z": 109.936,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.969,
+          "Y": 0.0,
+          "Z": 100.091,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.016,
+          "Y": 0.0,
+          "Z": 95.22,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.013,
+          "Y": 0.0,
+          "Z": 105.032,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.902,
+          "Y": 0.0,
+          "Z": 104.934,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.878,
+          "Y": 0.0,
+          "Z": 95.004,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Seventh Circle (Savage) - AutoImported",
+        "MapID": 877,
+        "Time": "2022-10-05T20:53:03.127401+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 0,
+          "Active": false
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 1,
+          "Active": false
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 2,
+          "Active": false
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.535,
+          "Y": 0.0,
+          "Z": 92.039,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.552,
+          "Y": 0.0,
+          "Z": 92.276,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.961,
+          "Y": 0.0,
+          "Z": 111.77,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Seventh Circle (Savage) - AutoImported",
+        "MapID": 877,
+        "Time": "2022-10-05T20:53:28.2103642+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.461,
+          "Y": 0.0,
+          "Z": 83.0,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 121.666,
+          "Y": 0.0,
+          "Z": 87.558,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 121.731,
+          "Y": 0.0,
+          "Z": 95.794,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.114,
+          "Y": 0.0,
+          "Z": 100.257,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.485,
+          "Y": 0.0,
+          "Z": 83.247,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 78.286,
+          "Y": 0.0,
+          "Z": 87.47,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 78.138,
+          "Y": 0.0,
+          "Z": 95.829,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.902,
+          "Y": 0.0,
+          "Z": 100.292,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Eighth Circle (Savage) - AutoImported",
+        "MapID": 884,
+        "Time": "2022-10-06T23:07:05+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.063,
+          "Y": 0.0,
+          "Z": 84.61,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.846,
+          "Y": 0.0,
+          "Z": 99.966,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.004,
+          "Y": 0.0,
+          "Z": 115.022,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.947,
+          "Y": 0.0,
+          "Z": 99.945,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.019,
+          "Y": 0.0,
+          "Z": 99.893,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 96.892,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.451,
+          "Y": 0.0,
+          "Z": 106.553,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.697,
+          "Y": 0.0,
+          "Z": 93.713,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Eighth Circle (Savage) - AutoImported",
+        "MapID": 884,
+        "Time": "2022-10-07T02:00:59+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.815,
+          "Y": 0.0,
+          "Z": 94.607,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 1,
+          "Active": false
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.875,
+          "Y": 0.0,
+          "Z": 109.965,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.047,
+          "Y": 0.0,
+          "Z": 89.907,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.889,
+          "Y": 0.0,
+          "Z": 80.966,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.998,
+          "Y": 0.0,
+          "Z": 98.779,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.92,
+          "Y": 0.0,
+          "Z": 90.028,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.155,
+          "Y": 0.0,
+          "Z": 90.269,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Alphascape V3.0 (Savage) - AutoImported",
+        "MapID": 593,
+        "Time": "2022-10-13T23:24:26+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.95,
+          "Y": 0.0,
+          "Z": 86.862,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.06,
+          "Y": 0.0,
+          "Z": 99.733,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.832,
+          "Y": 0.0,
+          "Z": 113.88,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.197,
+          "Y": 0.0,
+          "Z": 100.045,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 80.743,
+          "Y": 0.0,
+          "Z": 89.293,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.939,
+          "Y": 0.0,
+          "Z": 80.94,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 119.785,
+          "Y": 0.0,
+          "Z": 110.943,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.056,
+          "Y": 0.0,
+          "Z": 119.165,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Sil'dihn Subterrane - AutoImported",
+        "MapID": 878,
+        "Time": "2022-10-25T01:13:33+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 283.445,
+          "Y": 533.0,
+          "Z": -97.173,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 294.485,
+          "Y": 533.0,
+          "Z": -113.358,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 2,
+          "Active": false
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 280.416,
+          "Y": 533.0,
+          "Z": -105.242,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 297.621,
+          "Y": 533.0,
+          "Z": -105.139,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Containment Bay Z1T9 (Extreme) - AutoImported",
+        "MapID": 224,
+        "Time": "2022-10-29T15:32:29+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.015,
+          "Y": 0.0,
+          "Z": -15.038,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 15.372,
+          "Y": 0.0,
+          "Z": -0.806,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.037,
+          "Y": 0.0,
+          "Z": 14.439,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -15.798,
+          "Y": 0.0,
+          "Z": -0.456,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Alexander - The Arm of the Father (Savage) - AutoImported",
+        "MapID": 118,
+        "Time": "2022-11-12T17:18:12+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 57.966,
+          "Y": -8.999,
+          "Z": -76.701,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 71.838,
+          "Y": -8.999,
+          "Z": -63.106,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 58.027,
+          "Y": -8.999,
+          "Z": -49.315,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 44.172,
+          "Y": -8.999,
+          "Z": -63.088,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 64.881,
+          "Y": -9.0,
+          "Z": -66.959,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Eden's Verse: Refulgence (Savage) - AutoImported",
+        "MapID": 729,
+        "Time": "2022-12-06T00:16:39+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.038,
+          "Y": 0.0,
+          "Z": 107.301,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.279,
+          "Y": 0.0,
+          "Z": 105.397,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.132,
+          "Y": 0.0,
+          "Z": 99.997,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.255,
+          "Y": 0.0,
+          "Z": 94.21,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.053,
+          "Y": 0.0,
+          "Z": 91.615,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.686,
+          "Y": 0.0,
+          "Z": 94.361,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.924,
+          "Y": 0.0,
+          "Z": 99.866,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.67,
+          "Y": 0.0,
+          "Z": 105.579,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Abyssos: The Eighth Circle (Savage) - AutoImported",
+        "MapID": 884,
+        "Time": "2022-12-08T00:33:05+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.815,
+          "Y": 0.0,
+          "Z": 94.607,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 1,
+          "Active": false
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.067,
+          "Y": 0.0,
+          "Z": 89.941,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.046,
+          "Y": 0.0,
+          "Z": 89.906,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.998,
+          "Y": 0.0,
+          "Z": 98.778,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.955,
+          "Y": 0.0,
+          "Z": 109.997,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.154,
+          "Y": 0.0,
+          "Z": 90.268,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Minstrel's Ballad: Nidhogg's Rage - AutoImported",
+        "MapID": 170,
+        "Time": "2022-12-15T00:59:51+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.03,
+          "Y": 0.0,
+          "Z": -12.003,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 8.043,
+          "Y": 0.0,
+          "Z": -8.006,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 11.338,
+          "Y": 0.0,
+          "Z": -0.039,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 8.935,
+          "Y": 0.0,
+          "Z": 8.981,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.073,
+          "Y": 0.0,
+          "Z": 12.007,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -9.738,
+          "Y": 0.0,
+          "Z": 8.997,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -13.086,
+          "Y": 0.0,
+          "Z": -0.004,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -9.068,
+          "Y": 0.0,
+          "Z": -8.033,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Alphascape V4.0 (Savage) - AutoImported",
+        "MapID": 594,
+        "Time": "2022-12-23T00:55:01+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.944,
+          "Y": 0.0,
+          "Z": 88.802,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.756,
+          "Y": 0.0,
+          "Z": 99.829,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 88.677,
+          "Y": 0.0,
+          "Z": 99.617,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.987,
+          "Y": 0.0,
+          "Z": 110.961,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Alphascape V4.0 (Savage) - AutoImported",
+        "MapID": 594,
+        "Time": "2023-01-18T02:55:18+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.944,
+          "Y": 0.0,
+          "Z": 88.802,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.16,
+          "Y": 0.0,
+          "Z": 100.026,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 88.677,
+          "Y": 0.0,
+          "Z": 99.616,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 110.96,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Alphascape V4.0 (Savage) - AutoImported",
+        "MapID": 594,
+        "Time": "2023-01-18T04:08:31+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.944,
+          "Y": 0.0,
+          "Z": 88.802,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.16,
+          "Y": 0.0,
+          "Z": 100.026,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 88.677,
+          "Y": 0.0,
+          "Z": 99.616,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.986,
+          "Y": 0.0,
+          "Z": 110.96,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.255,
+          "Y": 0.0,
+          "Z": 95.071,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.009,
+          "Y": 0.0,
+          "Z": 99.909,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.122,
+          "Y": 0.0,
+          "Z": 100.016,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.912,
+          "Y": 0.0,
+          "Z": 104.783,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Containment Bay P1T6 (Unreal) - AutoImported",
+        "MapID": 926,
+        "Time": "2023-01-29T01:57:25+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -10.893,
+          "Y": 0.0,
+          "Z": -0.077,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -19.125,
+          "Y": 0.0,
+          "Z": -0.749,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 11.052,
+          "Y": 0.0,
+          "Z": -0.039,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 18.829,
+          "Y": 0.0,
+          "Z": -0.41,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Omega Protocol (Ultimate) - AutoImported",
+        "MapID": 908,
+        "Time": "2023-02-02T02:05:08+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.899,
+          "Y": 0.0,
+          "Z": 87.583,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.859,
+          "Y": 0.0,
+          "Z": 90.963,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.994,
+          "Y": 0.0,
+          "Z": 99.914,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.166,
+          "Y": 0.0,
+          "Z": 108.831,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.023,
+          "Y": 0.0,
+          "Z": 112.121,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.052,
+          "Y": 0.0,
+          "Z": 108.584,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.946,
+          "Y": 0.0,
+          "Z": 99.504,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.982,
+          "Y": 0.0,
+          "Z": 91.06,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Omega Protocol (Ultimate) - AutoImported",
+        "MapID": 908,
+        "Time": "2023-03-18T21:06:29+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.049,
+          "Y": 0.0,
+          "Z": 87.303,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.859,
+          "Y": 0.0,
+          "Z": 90.961,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.994,
+          "Y": 0.0,
+          "Z": 99.914,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.717,
+          "Y": 0.0,
+          "Z": 108.849,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.991,
+          "Y": 0.0,
+          "Z": 112.825,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 91.337,
+          "Y": 0.0,
+          "Z": 108.694,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 87.023,
+          "Y": 0.0,
+          "Z": 99.985,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.982,
+          "Y": 0.0,
+          "Z": 91.058,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Weapon's Refrain (Ultimate) - AutoImported",
+        "MapID": 539,
+        "Time": "2023-04-01T21:04:25+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.964,
+          "Y": 0.0,
+          "Z": 90.008,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.017,
+          "Y": 0.0,
+          "Z": 100.005,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.245,
+          "Y": 0.0,
+          "Z": 110.919,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 88.813,
+          "Y": 0.0,
+          "Z": 100.074,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.015,
+          "Y": 0.0,
+          "Z": 95.264,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Weapon's Refrain (Ultimate) - AutoImported",
+        "MapID": 539,
+        "Time": "2023-04-01T23:37:39+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.963,
+          "Y": 0.0,
+          "Z": 90.008,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 111.016,
+          "Y": 0.0,
+          "Z": 100.004,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.245,
+          "Y": 0.0,
+          "Z": 110.918,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 88.813,
+          "Y": 0.0,
+          "Z": 100.073,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.014,
+          "Y": 0.0,
+          "Z": 95.263,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.175,
+          "Y": 0.0,
+          "Z": 99.907,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Ninth Circle (Savage) - AutoImported",
+        "MapID": 937,
+        "Time": "2023-05-31T00:22:20+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.987,
+          "Y": 0.0,
+          "Z": 86.131,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.13,
+          "Y": 0.0,
+          "Z": 99.828,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.01,
+          "Y": 0.0,
+          "Z": 113.383,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.92,
+          "Y": 0.0,
+          "Z": 99.606,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.956,
+          "Y": 0.0,
+          "Z": 89.949,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.998,
+          "Y": 0.0,
+          "Z": 109.829,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.071,
+          "Y": 0.0,
+          "Z": 109.771,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.026,
+          "Y": 0.0,
+          "Z": 89.998,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Tenth Circle (Savage) - AutoImported",
+        "MapID": 939,
+        "Time": "2023-06-01T03:10:32+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.058,
+          "Y": 0.0,
+          "Z": 98.657,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.178,
+          "Y": 0.0,
+          "Z": 92.44,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.103,
+          "Y": 0.0,
+          "Z": 107.487,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.075,
+          "Y": 0.0,
+          "Z": 107.471,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 74.644,
+          "Y": 0.0,
+          "Z": 81.161,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.448,
+          "Y": 0.0,
+          "Z": 85.294,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.116,
+          "Y": 0.0,
+          "Z": 96.01,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.152,
+          "Y": 0.0,
+          "Z": 95.878,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Tenth Circle (Savage) - AutoImported",
+        "MapID": 939,
+        "Time": "2023-06-01T23:01:27+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.859,
+          "Y": 0.0,
+          "Z": 92.409,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.178,
+          "Y": 0.0,
+          "Z": 92.44,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.103,
+          "Y": 0.0,
+          "Z": 107.487,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.075,
+          "Y": 0.0,
+          "Z": 107.471,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.985,
+          "Y": 0.0,
+          "Z": 85.305,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.448,
+          "Y": 0.0,
+          "Z": 85.294,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.116,
+          "Y": 0.0,
+          "Z": 96.01,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 112.152,
+          "Y": 0.0,
+          "Z": 95.878,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Tenth Circle (Savage) - AutoImported",
+        "MapID": 939,
+        "Time": "2023-06-02T01:36:09+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.859,
+          "Y": 0.0,
+          "Z": 92.408,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.178,
+          "Y": 0.0,
+          "Z": 92.44,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.102,
+          "Y": 0.0,
+          "Z": 107.486,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 106.074,
+          "Y": 0.0,
+          "Z": 107.471,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.978,
+          "Y": 0.0,
+          "Z": 112.257,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.0,
+          "Y": 0.0,
+          "Z": 112.158,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.979,
+          "Y": 0.0,
+          "Z": 112.371,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Eleventh Circle (Savage) - AutoImported",
+        "MapID": 941,
+        "Time": "2023-06-05T23:01:34+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.023,
+          "Y": 0.0,
+          "Z": 85.544,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.047,
+          "Y": 0.0,
+          "Z": 100.148,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.01,
+          "Y": 0.0,
+          "Z": 114.209,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 85.861,
+          "Y": 0.0,
+          "Z": 100.08,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.825,
+          "Y": 0.0,
+          "Z": 92.794,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.123,
+          "Y": 0.0,
+          "Z": 92.927,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.16,
+          "Y": 0.0,
+          "Z": 107.063,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.987,
+          "Y": 0.0,
+          "Z": 107.108,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-13T01:28:03+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.071,
+          "Y": 0.0,
+          "Z": 84.817,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.075,
+          "Y": 0.0,
+          "Z": 94.808,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.067,
+          "Y": 0.0,
+          "Z": 104.862,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.947,
+          "Y": 0.0,
+          "Z": 114.819,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 84.893,
+          "Y": 0.0,
+          "Z": 100.038,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.643,
+          "Y": 0.0,
+          "Z": 99.9,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.334,
+          "Y": 0.0,
+          "Z": 100.081,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 115.477,
+          "Y": 0.0,
+          "Z": 100.018,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Ninth Circle (Savage) - AutoImported",
+        "MapID": 937,
+        "Time": "2023-06-13T22:59:51+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.049,
+          "Y": 0.0,
+          "Z": 91.875,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.007,
+          "Y": 0.0,
+          "Z": 99.938,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.087,
+          "Y": 0.0,
+          "Z": 107.938,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.145,
+          "Y": 0.0,
+          "Z": 99.87,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.936,
+          "Y": 0.0,
+          "Z": 89.718,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.027,
+          "Y": 0.0,
+          "Z": 89.67,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.961,
+          "Y": 0.0,
+          "Z": 109.748,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.061,
+          "Y": 0.0,
+          "Z": 109.808,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-19T23:47:27+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.842,
+          "Y": 0.0,
+          "Z": 90.985,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.997,
+          "Y": 0.0,
+          "Z": 91.182,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 2,
+          "Active": false
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.224,
+          "Y": 0.0,
+          "Z": 87.646,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.94,
+          "Y": 0.0,
+          "Z": 88.072,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-20T01:53:06+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.842,
+          "Y": 0.0,
+          "Z": 90.985,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.997,
+          "Y": 0.0,
+          "Z": 91.181,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.672,
+          "Y": 0.0,
+          "Z": 102.649,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.042,
+          "Y": 0.0,
+          "Z": 102.393,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 89.223,
+          "Y": 0.0,
+          "Z": 87.646,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 110.94,
+          "Y": 0.0,
+          "Z": 88.071,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-21T01:38:25+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.076,
+          "Y": 0.0,
+          "Z": 84.759,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.637,
+          "Y": 0.0,
+          "Z": 92.74,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.992,
+          "Y": 0.0,
+          "Z": 100.834,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.25,
+          "Y": 0.0,
+          "Z": 92.563,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.293,
+          "Y": 0.0,
+          "Z": 89.065,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.522,
+          "Y": 0.0,
+          "Z": 88.851,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.673,
+          "Y": 0.0,
+          "Z": 97.699,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.207,
+          "Y": 0.0,
+          "Z": 97.452,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-22T00:54:48+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.076,
+          "Y": 0.0,
+          "Z": 84.759,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.798,
+          "Y": 0.0,
+          "Z": 109.769,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.992,
+          "Y": 0.0,
+          "Z": 100.834,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 80.452,
+          "Y": 0.0,
+          "Z": 94.854,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.293,
+          "Y": 0.0,
+          "Z": 89.065,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.522,
+          "Y": 0.0,
+          "Z": 88.851,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.673,
+          "Y": 0.0,
+          "Z": 97.699,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.207,
+          "Y": 0.0,
+          "Z": 97.452,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-23T01:08:31+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.076,
+          "Y": 0.0,
+          "Z": 84.759,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.796,
+          "Y": 0.0,
+          "Z": 93.828,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.992,
+          "Y": 0.0,
+          "Z": 100.834,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 80.452,
+          "Y": 0.0,
+          "Z": 94.854,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.293,
+          "Y": 0.0,
+          "Z": 89.065,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.522,
+          "Y": 0.0,
+          "Z": 88.851,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.673,
+          "Y": 0.0,
+          "Z": 97.699,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.207,
+          "Y": 0.0,
+          "Z": 97.452,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Anabaseios: The Twelfth Circle (Savage) - AutoImported",
+        "MapID": 943,
+        "Time": "2023-06-28T01:19:48+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.075,
+          "Y": 0.0,
+          "Z": 84.759,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.931,
+          "Y": 0.0,
+          "Z": 109.315,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.991,
+          "Y": 0.0,
+          "Z": 100.833,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 80.452,
+          "Y": 0.0,
+          "Z": 94.853,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.292,
+          "Y": 0.0,
+          "Z": 89.065,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.522,
+          "Y": 0.0,
+          "Z": 88.85,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.672,
+          "Y": 0.0,
+          "Z": 97.698,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 93.207,
+          "Y": 0.0,
+          "Z": 97.452,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-06-29T00:22:07+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.97,
+          "Y": 0.0,
+          "Z": 94.992,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.125,
+          "Y": 0.0,
+          "Z": 100.006,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.873,
+          "Y": 0.0,
+          "Z": 105.095,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.903,
+          "Y": 0.0,
+          "Z": 99.988,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-06-29T23:42:31+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.104,
+          "Y": 0.0,
+          "Z": 86.305,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 1,
+          "Active": false
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-07-04T00:58:42+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.942,
+          "Y": 0.0,
+          "Z": 86.238,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.832,
+          "Y": 0.0,
+          "Z": 99.973,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.341,
+          "Y": 0.0,
+          "Z": 99.975,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-07-05T23:52:10+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.959,
+          "Y": 0.0,
+          "Z": 86.339,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.832,
+          "Y": 0.0,
+          "Z": 99.973,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.341,
+          "Y": 0.0,
+          "Z": 99.975,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.819,
+          "Y": 0.0,
+          "Z": 90.366,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-07-07T01:12:31+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.959,
+          "Y": 0.0,
+          "Z": 86.339,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.681,
+          "Y": 0.0,
+          "Z": 100.039,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.341,
+          "Y": 0.0,
+          "Z": 99.975,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.819,
+          "Y": 0.0,
+          "Z": 90.366,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 96.873,
+          "Y": 0.0,
+          "Z": 106.068,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 96.623,
+          "Y": 0.0,
+          "Z": 94.35,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 103.303,
+          "Y": 0.0,
+          "Z": 106.063,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-07-07T01:46:10+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.97,
+          "Y": 0.0,
+          "Z": 86.043,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.681,
+          "Y": 0.0,
+          "Z": 100.039,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.341,
+          "Y": 0.0,
+          "Z": 99.975,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.819,
+          "Y": 0.0,
+          "Z": 90.366,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 96.873,
+          "Y": 0.0,
+          "Z": 106.068,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 96.623,
+          "Y": 0.0,
+          "Z": 94.35,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 103.303,
+          "Y": 0.0,
+          "Z": 106.063,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Epic of Alexander (Ultimate) - AutoImported",
+        "MapID": 694,
+        "Time": "2023-07-14T00:12:58+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 99.958,
+          "Y": 0.0,
+          "Z": 86.338,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 113.832,
+          "Y": 0.0,
+          "Z": 99.972,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.041,
+          "Y": 0.0,
+          "Z": 113.75,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 86.341,
+          "Y": 0.0,
+          "Z": 99.974,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 114.819,
+          "Y": 0.0,
+          "Z": 90.365,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 107.777,
+          "Y": 0.0,
+          "Z": 99.917,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Mount Rokkon - AutoImported",
+        "MapID": 946,
+        "Time": "2023-07-20T01:58:16+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.487,
+          "Y": 0.0,
+          "Z": -105.703,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.21,
+          "Y": 0.0,
+          "Z": -99.592,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.071,
+          "Y": 0.0,
+          "Z": -93.146,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.002,
+          "Y": 0.0,
+          "Z": -100.366,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Mount Rokkon - AutoImported",
+        "MapID": 946,
+        "Time": "2023-07-20T23:05:27+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -0.486,
+          "Y": 0.0,
+          "Z": -105.703,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.21,
+          "Y": 0.0,
+          "Z": -99.592,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.071,
+          "Y": 0.0,
+          "Z": -93.146,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 6.001,
+          "Y": 0.0,
+          "Z": -100.365,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -10.934,
+          "Y": 0.0,
+          "Z": -108.171,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 10.44,
+          "Y": 0.0,
+          "Z": -89.439,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Mount Rokkon - AutoImported",
+        "MapID": 946,
+        "Time": "2023-07-21T00:27:56+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 284.283,
+          "Y": 7.0,
+          "Z": -117.483,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 300.038,
+          "Y": 7.0,
+          "Z": -103.943,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 283.934,
+          "Y": 7.0,
+          "Z": -122.481,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 302.904,
+          "Y": 7.0,
+          "Z": -135.873,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 283.963,
+          "Y": 7.0,
+          "Z": -103.94,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 316.164,
+          "Y": 7.0,
+          "Z": -104.063,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 283.646,
+          "Y": 7.0,
+          "Z": -137.987,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 317.652,
+          "Y": 7.0,
+          "Z": -138.068,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Mount Rokkon - AutoImported",
+        "MapID": 946,
+        "Time": "2023-07-25T02:19:47+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -200.006,
+          "Y": -195.0,
+          "Z": -12.217,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -187.477,
+          "Y": -195.0,
+          "Z": -0.102,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -200.096,
+          "Y": -195.0,
+          "Z": 11.786,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -212.529,
+          "Y": -195.0,
+          "Z": -0.108,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -194.897,
+          "Y": -195.0,
+          "Z": -19.892,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -180.122,
+          "Y": -195.0,
+          "Z": 3.999,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -204.95,
+          "Y": -195.0,
+          "Z": 19.725,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -220.047,
+          "Y": -195.0,
+          "Z": -3.973,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Final Steps of Faith - AutoImported",
+        "MapID": 169,
+        "Time": "2023-08-04T01:00:32+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.065,
+          "Y": 0.0,
+          "Z": -14.03,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 9.925,
+          "Y": 0.0,
+          "Z": -9.495,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 11.977,
+          "Y": 0.0,
+          "Z": -0.094,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 9.336,
+          "Y": 0.0,
+          "Z": 9.531,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 11.989,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -9.192,
+          "Y": 0.0,
+          "Z": 9.915,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -12.403,
+          "Y": 0.0,
+          "Z": 0.031,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -8.785,
+          "Y": 0.0,
+          "Z": -10.079,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Eden's Verse: Refulgence (Savage) - AutoImported",
+        "MapID": 729,
+        "Time": "2023-08-09T23:14:19+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.001,
+          "Y": 0.0,
+          "Z": 91.968,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 108.024,
+          "Y": 0.0,
+          "Z": 99.936,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 100.066,
+          "Y": 0.0,
+          "Z": 108.063,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 92.001,
+          "Y": 0.0,
+          "Z": 99.964,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.429,
+          "Y": 0.0,
+          "Z": 94.338,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.682,
+          "Y": 0.0,
+          "Z": 94.371,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 105.724,
+          "Y": 0.0,
+          "Z": 105.656,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 94.317,
+          "Y": 0.0,
+          "Z": 105.623,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Unending Coil of Bahamut (Ultimate) - AutoImported",
+        "MapID": 280,
+        "Time": "2023-08-17T00:51:05+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 5.033,
+          "Y": 0.0,
+          "Z": -2.535,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -21.563,
+          "Y": 0.0,
+          "Z": 0.115,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 21.344,
+          "Y": 0.0,
+          "Z": 2.15,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -13.759,
+          "Y": 0.0,
+          "Z": -16.235,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.122,
+          "Y": 0.0,
+          "Z": -6.96,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -7.505,
+          "Y": 0.0,
+          "Z": 5.109,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 7.949,
+          "Y": 0.0,
+          "Z": 5.375,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.212,
+          "Y": 0.0,
+          "Z": 8.838,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "The Abyssal Fracture (Extreme) - AutoImported",
+        "MapID": 965,
+        "Time": "2023-10-09T23:13:06+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.792,
+          "Y": 0.0,
+          "Z": 90.837,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.262,
+          "Y": 0.0,
+          "Z": 91.043,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 109.295,
+          "Y": 0.0,
+          "Z": 109.061,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 90.584,
+          "Y": 0.0,
+          "Z": 109.363,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 81.611,
+          "Y": 0.0,
+          "Z": 92.453,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 95.274,
+          "Y": 0.0,
+          "Z": 82.135,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 104.709,
+          "Y": 0.0,
+          "Z": 81.918,
+          "ID": 6,
+          "Active": true
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 118.936,
+          "Y": 0.0,
+          "Z": 93.143,
+          "ID": 7,
+          "Active": true
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Aloalo Island - AutoImported",
+        "MapID": 979,
+        "Time": "2023-11-08T01:27:25+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 186.53,
+          "Y": -300.0,
+          "Z": -4.264,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.489,
+          "Y": -300.0,
+          "Z": -4.284,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 2,
+          "Active": false
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.164,
+          "Y": -300.0,
+          "Z": 4.049,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 187.185,
+          "Y": -300.0,
+          "Z": 3.835,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Aloalo Island - AutoImported",
+        "MapID": 979,
+        "Time": "2023-11-08T03:17:59+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 186.529,
+          "Y": -300.0,
+          "Z": -4.263,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.488,
+          "Y": -300.0,
+          "Z": -4.283,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 199.542,
+          "Y": -300.0,
+          "Z": -14.7,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 199.661,
+          "Y": -300.0,
+          "Z": 13.814,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.164,
+          "Y": -300.0,
+          "Z": 4.048,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 187.184,
+          "Y": -300.0,
+          "Z": 3.835,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Aloalo Island - AutoImported",
+        "MapID": 979,
+        "Time": "2023-11-08T03:25:29+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -199.788,
+          "Y": -200.0,
+          "Z": -12.263,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -208.131,
+          "Y": -200.0,
+          "Z": 0.358,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -199.689,
+          "Y": -200.0,
+          "Z": 7.389,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": -192.718,
+          "Y": -200.0,
+          "Z": 0.328,
+          "ID": 3,
+          "Active": true
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 4,
+          "Active": false
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 5,
+          "Active": false
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      },
+      {
+        "$type": "WaymarkPresetPlugin.WaymarkPreset, WaymarkPresetPlugin",
+        "Name": "Another Aloalo Island - AutoImported",
+        "MapID": 979,
+        "Time": "2023-11-09T03:51:42+00:00",
+        "A": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 186.529,
+          "Y": -300.0,
+          "Z": -4.263,
+          "ID": 0,
+          "Active": true
+        },
+        "B": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.488,
+          "Y": -300.0,
+          "Z": -4.283,
+          "ID": 1,
+          "Active": true
+        },
+        "C": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 199.139,
+          "Y": -300.0,
+          "Z": -14.251,
+          "ID": 2,
+          "Active": true
+        },
+        "D": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 3,
+          "Active": false
+        },
+        "One": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 213.164,
+          "Y": -300.0,
+          "Z": 4.048,
+          "ID": 4,
+          "Active": true
+        },
+        "Two": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 187.184,
+          "Y": -300.0,
+          "Z": 3.835,
+          "ID": 5,
+          "Active": true
+        },
+        "Three": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 6,
+          "Active": false
+        },
+        "Four": {
+          "$type": "WaymarkPresetPlugin.Waymark, WaymarkPresetPlugin",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "ID": 7,
+          "Active": false
+        }
+      }
+    ]
+  },
+  "SortPresetsByZone": true,
+  "AlwaysShowInfoPane": false,
+  "AllowUnselectPreset": false,
+  "FilterOnCurrentZone": false,
+  "ShowIDNumberNextToZoneNames": false,
+  "ShowLibraryIndexInPresetInfo": false,
+  "AutoPopulatePresetsOnEnterInstance": true,
+  "AutoSavePresetsOnInstanceLeave": true,
+  "SuppressCommandLineResponses": false,
+  "OpenAndCloseWithFieldMarkerAddon": false,
+  "AttachLibraryToFieldMarkerAddon": false,
+  "AllowPresetDragAndDropOrdering": true,
+  "AllowZoneDragAndDropOrdering": true,
+  "SortZonesDescending": false,
+  "ShowLibraryZoneFilterBox": true
+}

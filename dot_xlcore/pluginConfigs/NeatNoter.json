@@ -1,0 +1,23 @@
+{
+  "$type": "NeatNoter.NeatNoterConfiguration, NeatNoter",
+  "Version": 0,
+  "IncludeNoteBodiesInSearch": false,
+  "JustInstalled": false,
+  "AutomaticExportPath": null,
+  "LockPosition": false,
+  "LockSize": false,
+  "SaveFrequency": 5000,
+  "FullSaveFrequency": 14400000,
+  "IsNoCategorySelected": true,
+  "NoteSortType": 4,
+  "CategorySortType": 4,
+  "BackupRetention": 7,
+  "BackupFrequency": 86400000,
+  "LastBackup": 1717119522274,
+  "PluginVersion": 2050400,
+  "Notes": [],
+  "Categories": [],
+  "IsVisible": true,
+  "ShowContentPreview": true,
+  "ShowConfigurationButton": true
+}

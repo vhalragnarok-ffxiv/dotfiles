@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Name": "One Trick",
+    "Tag": "Saiko",
+    "Leader": "Pax Megumin",
+    "ServerId": 99
+  },
+  "Item2": [
+    {
+      "Name": "Bakuretsu",
+      "Arrival": "2024-06-01T21:58:57Z",
+      "Type": 2
+    },
+    {
+      "Name": "Bakuretsu",
+      "Arrival": "2024-06-01T21:59:11Z",
+      "Type": 2
+    },
+    {
+      "Name": "Bakuretsu",
+      "Arrival": "2024-06-01T21:59:20Z",
+      "Type": 2
+    },
+    {
+      "Name": "Exsu-PLOSION",
+      "Arrival": "2024-06-01T21:59:32Z",
+      "Type": 2
+    }
+  ]
+}

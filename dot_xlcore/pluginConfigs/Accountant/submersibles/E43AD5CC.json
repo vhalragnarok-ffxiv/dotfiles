@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Name": "Skyrim",
+    "Tag": "FUS",
+    "Leader": "Dragon's Enemy",
+    "ServerId": 407
+  },
+  "Item2": [
+    {
+      "Name": "Submersible-1",
+      "Arrival": "2024-06-02T00:41:24Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-2",
+      "Arrival": "2024-06-02T00:41:49Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-3",
+      "Arrival": "2024-06-01T21:27:55Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-4",
+      "Arrival": "2024-06-01T21:28:05Z",
+      "Type": 2
+    }
+  ]
+}

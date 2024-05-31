@@ -1,0 +1,88 @@
+{
+  "Item1": {
+    "Name": "Vhal Ragnarok",
+    "ServerId": 65
+  },
+  "Item2": [
+    {
+      "Name": "Vhaliant",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 33777097242205167,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "Vhalorant",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 33777097242205170,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    },
+    {
+      "Name": "",
+      "Venture": "0001-01-01T00:00:00",
+      "RetainerId": 0,
+      "VentureId": 0,
+      "Available": false,
+      "JobId": 0
+    }
+  ]
+}

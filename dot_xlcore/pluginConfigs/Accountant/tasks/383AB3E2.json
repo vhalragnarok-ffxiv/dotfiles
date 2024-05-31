@@ -1,0 +1,40 @@
+{
+  "Item1": {
+    "Name": "Meme Lord",
+    "ServerId": 407
+  },
+  "Item2": {
+    "Leves": {
+      "Allowances": 0,
+      "LastUpdate": "2024-05-31T00:00:00Z"
+    },
+    "Squadron": {
+      "MissionEnd": "0001-01-01T00:00:00",
+      "TrainingEnd": "0001-01-01T00:00:00",
+      "MissionId": 0,
+      "TrainingId": 0,
+      "NewRecruits": false
+    },
+    "Map": "0001-01-01T00:00:00",
+    "MiniCactpot": {
+      "LastUpdate": "0001-01-01T00:00:00",
+      "Tickets": 0
+    },
+    "JumboCactpot": {
+      "LastUpdate": "2024-05-27T05:01:05.8309698Z",
+      "Tickets": [
+        65535,
+        65535,
+        65535
+      ]
+    },
+    "Delivery": {
+      "Allowances": 12,
+      "LastUpdate": "2023-03-22T01:17:43.6260586Z"
+    },
+    "Tribe": {
+      "Allowances": 12,
+      "LastUpdate": "2023-03-22T01:17:43.9276908Z"
+    }
+  }
+}

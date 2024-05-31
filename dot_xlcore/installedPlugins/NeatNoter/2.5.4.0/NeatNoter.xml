@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NeatNoter</name>
+    </assembly>
+    <members>
+        <member name="T:NeatNoter.NeatNoterConfiguration">
+            <inheritdoc />
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.Version">
+            <inheritdoc />
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.IncludeNoteBodiesInSearch">
+            <summary>
+            Gets or sets a value indicating whether include note bodies while searching.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.JustInstalled">
+            <summary>
+            Gets or sets a value indicating whether fresh install.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.AutomaticExportPath">
+            <summary>
+            Gets or sets automatic export path.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.LockPosition">
+            <summary>
+            Gets or sets a value indicating whether the window is locked in place.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.LockSize">
+            <summary>
+            Gets or sets a value indicating whether the window can be resized.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.SaveFrequency">
+            <summary>
+            Gets or sets save frequency in ms.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.FullSaveFrequency">
+            <summary>
+            Gets or sets save frequency in ms to perform full backup.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.IsNoCategorySelected">
+            <summary>
+            Gets or sets a value indicating whether no category notes are selected.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.NoteSortType">
+            <summary>
+            Gets or sets note sort type.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.CategorySortType">
+            <summary>
+            Gets or sets category sort type.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.BackupRetention">
+            <summary>
+            Gets or sets number of backups to keep before deleting the oldest.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.BackupFrequency">
+            <summary>
+            Gets or sets backup frequency in ms.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.LastBackup">
+            <summary>
+            Gets or sets last backup in ms.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.PluginVersion">
+            <summary>
+            Gets or sets plugin version to use for special processing on upgrades.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.Notes">
+            <summary>
+            Gets or sets notes.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.Categories">
+            <summary>
+            Gets or sets categories.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.IsVisible">
+            <summary>
+            Gets or sets a value indicating whether notebook window is visible.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.ShowContentPreview">
+            <summary>
+            Gets or sets a value indicating whether to show content preview.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterConfiguration.ShowConfigurationButton">
+            <summary>
+            Gets or sets a value indicating whether include the configuration button on the main window title.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.Migrator">
+            <summary>
+            Migrate schema to newer versions.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.Migrator.Migrate(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Migrate schema.
+            </summary>
+            <param name="plugin">plugin.</param>
+            <returns>indicator if migration successful.</returns>
+        </member>
+        <member name="T:NeatNoter.Category">
+            <summary>
+            Note category.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.Category.Color">
+            <summary>
+            Gets or sets category color.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.Category.IsSelected">
+            <summary>
+            Gets or sets a value indicating whether selected for display.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.DocumentBackup">
+            <summary>
+            Document backup.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.DocumentBackup.Notes">
+            <summary>
+            Gets or sets list of notes.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.DocumentBackup.Categories">
+            <summary>
+            Gets or sets list of categories.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.DocumentSortType">
+            <summary>
+            Sort type for document list.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.DocumentSortTypes">
+            <summary>
+            List of available sort types.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.DocumentSortTypeNames">
+            <summary>
+            List of available sort type names.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.NameAscending">
+            <summary>
+            Sort Type: Name Ascending.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.NameDescending">
+            <summary>
+            Sort Type: Name Descending.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.CreatedAscending">
+            <summary>
+            Sort Type: Created Date Ascending.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.CreatedDescending">
+            <summary>
+            Sort Type: Created Date Descending.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.ModifiedAscending">
+            <summary>
+            Sort Type: Modified Date Descending.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.DocumentSortType.ModifiedDescending">
+            <summary>
+            Sort Type: Modified Date Descending.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.DocumentSortType.Index">
+            <summary>
+            Gets or sets sort type index.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.DocumentSortType.Code">
+            <summary>
+            Gets or sets sort type code.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.DocumentSortType.Name">
+            <summary>
+            Gets or sets sort type name.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.DocumentSortType.GetDocumentSortTypeByIndex(System.Int32)">
+            <summary>
+            Get document sort type by index.
+            </summary>
+            <param name="index">sort index.</param>
+            <returns>sort type.</returns>
+        </member>
+        <member name="M:NeatNoter.DocumentSortType.Init">
+            <summary>
+            Initialize names.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.DocumentSortType.ToString">
+            <summary>
+            Return sort name.
+            </summary>
+            <returns>sort name.</returns>
+        </member>
+        <member name="T:NeatNoter.Note">
+            <inheritdoc />
+        </member>
+        <member name="P:NeatNoter.Note.Categories">
+            <summary>
+            Gets categories for note.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.SortDirection">
+            <summary>
+            Sort direction.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.SortDirection.Ascending">
+            <summary>
+            Ascending direction.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.SortDirection.Descending">
+            <summary>
+            Descending direction.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.UniqueDocument">
+            <summary>
+            Common document.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.Name">
+            <summary>
+            Gets or sets document name.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.IdentifierString">
+            <summary>
+            Gets document ID.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.Id">
+            <summary>
+            Gets or sets id.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.InternalName">
+            <summary>
+            Gets or sets document internal name.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.Body">
+            <summary>
+            Gets or sets document body.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.InternalBody">
+            <summary>
+            Gets or sets document internal body.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.IsVisible">
+            <summary>
+            Gets or sets a value indicating whether document is visible.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.Created">
+            <summary>
+            Gets or sets created date (unix timestamp).
+            </summary>
+        </member>
+        <member name="P:NeatNoter.UniqueDocument.Modified">
+            <summary>
+            Gets or sets last modified date (unix timestamp).
+            </summary>
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.CompressBody">
+            <summary>
+            Compress string.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.DecompressBody">
+            <summary>
+            Decompress string.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.GetTypeName">
+            <summary>
+            Get type name.
+            </summary>
+            <returns>type name.</returns>
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.Equals(NeatNoter.UniqueDocument)">
+            <inheritdoc />
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.Equals(System.Object)">
+            <inheritdoc />
+        </member>
+        <member name="M:NeatNoter.UniqueDocument.GetHashCode">
+            <inheritdoc />
+        </member>
+        <member name="T:NeatNoter.NeatNoterPlugin">
+            <inheritdoc />
+        </member>
+        <member name="F:NeatNoter.NeatNoterPlugin.Configuration">
+            <summary>
+            Plugin configuration.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NeatNoterPlugin.NotebookService">
+            <summary>
+            Notebook.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NeatNoterPlugin.WindowManager">
+            <summary>
+            Window Manager.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NeatNoterPlugin.BackupManager">
+            <summary>
+            Backup manager.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NeatNoterPlugin.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.NeatNoterPlugin"/> class.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterPlugin.PluginInterface">
+            <summary>
+            Gets pluginInterface.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterPlugin.Chat">
+            <summary>
+            Gets chat gui.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterPlugin.CommandManager">
+            <summary>
+            Gets command manager.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterPlugin.ClientState">
+            <summary>
+            Gets client state.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NeatNoterPlugin.PluginCommandManager">
+            <summary>
+            Gets or sets command manager to handle user commands.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NeatNoterPlugin.GetPluginFolder">
+            <summary>
+            Get plugin folder.
+            </summary>
+            <returns>plugin folder name.</returns>
+        </member>
+        <member name="M:NeatNoter.NeatNoterPlugin.Dispose">
+            <inheritdoc />
+        </member>
+        <member name="M:NeatNoter.NeatNoterPlugin.SaveConfig">
+            <summary>
+            Save configuration.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NeatNoterPlugin.Dispose(System.Boolean)">
+            <summary>
+            Dispose plugin.
+            </summary>
+            <param name="disposing">indicator whether disposing.</param>
+        </member>
+        <member name="T:NeatNoter.PluginCommandManager">
+            <summary>
+            Manage plugin commands.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.PluginCommandManager.#ctor(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.PluginCommandManager"/> class.
+            </summary>
+            <param name="plugin">plugin.</param>
+        </member>
+        <member name="M:NeatNoter.PluginCommandManager.Dispose">
+            <summary>
+            Dispose command manager.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.NotebookService">
+            <summary>
+            Notebook.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.#ctor(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.NotebookService"/> class.
+            </summary>
+            <param name="plugin">neatnoter plugin.</param>
+        </member>
+        <member name="P:NeatNoter.NotebookService.Loading">
+            <summary>
+            Gets a value indicating whether is loading.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.NotebookService.TempExportPath">
+            <summary>
+            Gets or sets temporary export path.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.InitializeAll``1(System.Collections.Generic.IList{``0})">
+            <summary>
+            Initialize all.
+            </summary>
+            <param name="list">list.</param>
+            <typeparam name="T">type.</typeparam>
+            <exception cref="T:System.ArgumentNullException">null list exception.</exception>
+        </member>
+        <member name="M:NeatNoter.NotebookService.ExportNotes">
+            <summary>
+            Export Notes to a file.
+            </summary>
+            <returns>exported notes.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.Start">
+            <summary>
+            Start service.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.UpdateSaveFrequency(System.Int32)">
+            <summary>
+            Update save frequency.
+            </summary>
+            <param name="frequency">new frequency.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.UpdateFullSaveFrequency(System.Int32)">
+            <summary>
+            Update full save frequency.
+            </summary>
+            <param name="frequency">new frequency.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveFullNotebook">
+            <summary>
+            Save notebook including notes, categories, and configuration.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.LoadDocuments">
+            <summary>
+            Load notes and categories from db.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.GetCategories">
+            <summary>
+            Gets list of categories.
+            </summary>
+            <returns>list of categories.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.GetNotes">
+            <summary>
+            Gets list of notes.
+            </summary>
+            <returns>list of Notes.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.GetNotes(System.Boolean,System.String)">
+            <summary>
+            Gets list of notes.
+            </summary>
+            <param name="filterByCategory">filter notes by selected categories.</param>
+            <param name="text">filter by text fragment.</param>
+            <returns>list of Notes.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SelectOneCategory(NeatNoter.Category)">
+            <summary>
+            Select one category and unselect others.
+            </summary>
+            <param name="selectedCategory">category to select.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveCategories(System.Collections.Generic.IEnumerable{NeatNoter.Category})">
+            <summary>
+            Saves list of categories.
+            </summary>
+            <param name="updatedCategories">updated categories list.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveCategory(NeatNoter.Category)">
+            <summary>
+            Save category.
+            </summary>
+            <param name="category">updated category.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveCategories">
+            <summary>
+            Saves list of categories.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveNotes(System.Collections.Generic.IEnumerable{NeatNoter.Note})">
+            <summary>
+            Saves list of notes.
+            </summary>
+            <param name="updatedNotes">updated notes list.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveNote(NeatNoter.Note)">
+            <summary>
+            Save note.
+            </summary>
+            <param name="updatedNote">updated note.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveNotes">
+            <summary>
+            Saves list of notes.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookService.CreateNote">
+            <summary>
+            Create note.
+            </summary>
+            <returns>new note.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.CreateCategory">
+            <summary>
+            Create category.
+            </summary>
+            <returns>new category.</returns>
+        </member>
+        <member name="M:NeatNoter.NotebookService.DeleteNote(NeatNoter.Note)">
+            <summary>
+            Delete note.
+            </summary>
+            <param name="note">note to delete.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.DeleteCategory(NeatNoter.Category)">
+            <summary>
+            Delete category.
+            </summary>
+            <param name="category">category to delete.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SortCategories(NeatNoter.DocumentSortType)">
+            <summary>
+            Sort categories.
+            </summary>
+            <param name="sortType">sort type.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SortNotes(NeatNoter.DocumentSortType)">
+            <summary>
+            Sort notes.
+            </summary>
+            <param name="sortType">sort type.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.SaveBackup(System.String)">
+            <summary>
+            Save backup.
+            </summary>
+            <param name="path">file path.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookService.Dispose">
+            <summary>
+            Dispose service.
+            </summary>
+        </member>
+        <member name="T:NeatNoter.NotebookWindow">
+            <summary>
+            Main window for the plugin.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NotebookWindow.CurrentNote">
+            <summary>
+            Currently selected note.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NotebookWindow.IsNoteDirty">
+            <summary>
+            Indicator if note has changed since last save.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.NotebookWindow.CurrentCategory">
+            <summary>
+            Currently selected category.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.NotebookWindow.#ctor(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.NotebookWindow"/> class.
+            </summary>
+            <param name="plugin">NeatNoter plugin.</param>
+        </member>
+        <member name="M:NeatNoter.NotebookWindow.OnOpen">
+            <inheritdoc />
+        </member>
+        <member name="M:NeatNoter.NotebookWindow.OnClose">
+            <inheritdoc />
+        </member>
+        <member name="M:NeatNoter.NotebookWindow.Draw">
+            <inheritdoc/>
+        </member>
+        <member name="T:NeatNoter.PluginWindow">
+            <summary>
+            Plugin window which extends window with NeatNoter.
+            </summary>
+        </member>
+        <member name="F:NeatNoter.PluginWindow.plugin">
+            <summary>
+            Gets NeatNoter for window.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.PluginWindow.#ctor(NeatNoter.NeatNoterPlugin,System.String,ImGuiNET.ImGuiWindowFlags)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.PluginWindow"/> class.
+            </summary>
+            <param name="plugin">NeatNoter plugin.</param>
+            <param name="windowName">Name of the window.</param>
+            <param name="flags">ImGui flags.</param>
+        </member>
+        <member name="M:NeatNoter.PluginWindow.Draw">
+            <inheritdoc/>
+        </member>
+        <member name="T:NeatNoter.SettingsWindow">
+            <summary>
+            Settings window for the plugin.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.SettingsWindow.#ctor(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.SettingsWindow"/> class.
+            </summary>
+            <param name="plugin">NeatNoter plugin.</param>
+        </member>
+        <member name="M:NeatNoter.SettingsWindow.Draw">
+            <inheritdoc/>
+        </member>
+        <member name="T:NeatNoter.WindowManager">
+            <summary>
+            Window manager to hold plugin windows and window system.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.WindowManager.#ctor(NeatNoter.NeatNoterPlugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NeatNoter.WindowManager"/> class.
+            </summary>
+            <param name="plugin">NeatNoter plugin.</param>
+        </member>
+        <member name="P:NeatNoter.WindowManager.NotebookWindow">
+            <summary>
+            Gets main NeatNoter window.
+            </summary>
+        </member>
+        <member name="P:NeatNoter.WindowManager.SettingsWindow">
+            <summary>
+            Gets config NeatNoter window.
+            </summary>
+        </member>
+        <member name="M:NeatNoter.WindowManager.Dispose">
+            <summary>
+            Dispose plugin windows and commands.
+            </summary>
+        </member>
+    </members>
+</doc>

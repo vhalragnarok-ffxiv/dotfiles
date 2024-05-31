@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Name": "Motherland",
+    "Tag": "RUSK",
+    "Leader": "Alex Terrible",
+    "ServerId": 407
+  },
+  "Item2": [
+    {
+      "Name": "Submersible-1",
+      "Arrival": "2024-06-02T00:01:26Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-2",
+      "Arrival": "2024-06-02T00:01:49Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-3",
+      "Arrival": "2024-06-01T21:12:58Z",
+      "Type": 2
+    },
+    {
+      "Name": "Submersible-4",
+      "Arrival": "2024-06-01T21:13:40Z",
+      "Type": 2
+    }
+  ]
+}

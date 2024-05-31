@@ -1,0 +1,290 @@
+{
+  "$type": "YesAlready.Configuration, YesAlready",
+  "Version": 1,
+  "Enabled": true,
+  "ForcedYesKey": 0,
+  "DisableKey": 0,
+  "RootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Prepare the bed with a bag of potting soil and a bag of voidrake seeds?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Enter the estate hall?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Contribute .*? to the company project?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave the Estate Hall?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave the company workshop?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Travel to your island?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Do you really want to trade a high-quality item?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Use .*? of your .*? sets of magitek repair materials to repair your vessel's .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Craft a shark-class bow?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Craft a shark-class bridge?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Retrieve the shark-class bridge from the company workshop?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Craft a shark-class pressure hull?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Retrieve the shark-class pressure hull from the company workshop?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Your text goes here",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Complete trade?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Delete this letter?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Purchase 99 fragments of grade 6 dark matter for 11,880 gil?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave duty?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Repair as many of the displayed items as possible using the following materials?.*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave the estate hall?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Purchase 99 fragments of grade 8 dark matter for 27,720 gil?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Purchase 99 tanks of ceruleum for 9,900 company credits?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Purchase 99 dark matter clusters for 66,528 gil (3,168 fee included)?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      }
+    ]
+  },
+  "OkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!"
+      }
+    ]
+  },
+  "ListRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!",
+        "TargetRestricted": false,
+        "TargetText": ""
+      },
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Harvest Crop",
+        "TargetRestricted": true,
+        "TargetText": ""
+      },
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Plant Seeds",
+        "TargetRestricted": true,
+        "TargetText": ""
+      },
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Move to the company workshop",
+        "TargetRestricted": true,
+        "TargetText": "Entrance to Additional Chambers"
+      },
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Harvest Crop",
+        "TargetRestricted": true,
+        "TargetText": "Riviera Flowerpot"
+      },
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Plant Seeds",
+        "TargetRestricted": true,
+        "TargetText": "Riviera Flowerpot"
+      }
+    ]
+  },
+  "TalkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TalkEntryNode, YesAlready",
+        "Enabled": false,
+        "TargetText": "Add some text here!"
+      }
+    ]
+  },
+  "DesynthDialogEnabled": false,
+  "DesynthBulkDialogEnabled": false,
+  "MaterializeDialogEnabled": true,
+  "MateriaRetrieveDialogEnabled": true,
+  "ItemInspectionResultEnabled": false,
+  "ItemInspectionResultRateLimiter": 0,
+  "RetainerTaskAskEnabled": true,
+  "RetainerTaskResultEnabled": false,
+  "GrandCompanySupplyReward": true,
+  "ShopCardDialog": false,
+  "ShopExchangeItemDialogEnabled": false,
+  "JournalResultCompleteEnabled": true,
+  "ContentsFinderConfirmEnabled": true,
+  "ContentsFinderOneTimeConfirmEnabled": false,
+  "InclusionShopRememberEnabled": false,
+  "InclusionShopRememberCategory": 1,
+  "InclusionShopRememberSubcategory": 9,
+  "GuildLeveDifficultyConfirm": false,
+  "FallGuysRegisterConfirm": false,
+  "FallGuysExitConfirm": false,
+  "RetainerTransferProgressConfirm": false,
+  "DesynthesisResults": false,
+  "AetherialReductionResults": false
+}

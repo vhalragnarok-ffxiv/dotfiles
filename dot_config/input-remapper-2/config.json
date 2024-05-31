@@ -1,0 +1,9 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse": "Main",
+        "SteelSeries SteelSeries Aerox 9 Wireless": "Main",
+        "Razer Razer Tartarus Pro": "Main",
+        "IQUNIX IQUNIX ZONEX75 Mechanical Keyboard": "Main"
+    }
+}
