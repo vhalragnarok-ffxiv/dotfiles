@@ -5,6 +5,9 @@
   "CrossWorld": true,
   "WatchForHovered": true,
   "History": [
+    41650,
+    40388,
+    36005,
     40753,
     31681,
     12903,
@@ -22,7 +25,6 @@
     26802,
     32858,
     10386,
-    40388,
     39640,
     9466,
     9462,
@@ -102,9 +104,7 @@
     5118,
     37841,
     37282,
-    13659,
-    28824,
-    21800
+    13659
   ],
   "ContextMenuIntegration": true,
   "PriceIconShown": true,

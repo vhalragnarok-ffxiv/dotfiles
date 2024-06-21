@@ -1,7 +1,7 @@
-{
-  "Version": 1,
-  "Default": "Default",
-  "Interface": "Default",
-  "Current": "Default",
+﻿{
+  "Version": 2,
+  "Default": "c769e6c6-72ac-4c3c-a096-687603609fd4",
+  "Interface": "c769e6c6-72ac-4c3c-a096-687603609fd4",
+  "Current": "c769e6c6-72ac-4c3c-a096-687603609fd4",
   "Individuals": []
 }

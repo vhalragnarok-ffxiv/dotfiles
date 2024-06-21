@@ -3,11 +3,12 @@
     "X": 900.0,
     "Y": 675.0
   },
-  "Version": 8,
+  "Version": 9,
   "ChangeLogDisplayType": 0,
   "EnableMods": true,
   "ModDirectory": "C:\\Mods",
   "ExportDirectory": "",
+  "UseCrashHandler": null,
   "OpenWindowAtStart": false,
   "HideUiInGPose": false,
   "HideUiInCutscenes": true,
@@ -20,8 +21,11 @@
   "UseOwnerNameForCharacterCollection": true,
   "UseNoModsInInspect": false,
   "HideChangedItemFilters": false,
+  "ReplaceNonAsciiOnImport": false,
   "HidePrioritiesInSelector": false,
   "HideRedrawBar": false,
+  "HideMachinistOffhandFromChangedItems": true,
+  "ShowRename": 4,
   "OptionGroupCollapsibleMin": 5,
   "DebugMode": false,
   "MaxResourceWatcherRecords": 1024,
@@ -74,7 +78,9 @@
     "ResTreeLocalPlayer": 4294959264,
     "ResTreePlayer": 4290838464,
     "ResTreeNetworked": 4294967295,
-    "ResTreeNonNetworked": 4290822399
+    "ResTreeNonNetworked": 4290822399,
+    "PredefinedTagAdd": 4282690116,
+    "PredefinedTagRemove": 4280427178
   },
   "SortMode": "FoldersFirstT"
 }

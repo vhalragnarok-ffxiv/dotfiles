@@ -40,6 +40,7 @@
     "EnableCutsceneSkipConfirm": true,
     "EnableTalkSkip": true,
     "EnableRequestFill": true,
+    "EnableAutoInteract": false,
     "QTIQuestEnabled": true,
     "QTIQuestColor": {
       "X": 1.0,
@@ -72,5 +73,11 @@
   "ENpcFinder": false,
   "EObjFinder": true,
   "FinderKey": 162,
+  "DontAutoDisable": false,
+  "Navmesh": false,
+  "NavmeshAutoInteract": false,
+  "Mount": 0,
+  "NavStatusChat": false,
+  "DisplayFunding": true,
   "Version": 2
 }

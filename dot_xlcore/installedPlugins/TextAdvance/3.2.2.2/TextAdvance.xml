@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TextAdvance</name>
+    </assembly>
+    <members>
+        <member name="M:TextAdvance.Native.ApplicationIsActivated">
+            <summary>Returns true if the current application has focus, false otherwise</summary>
+        </member>
+        <member name="F:TextAdvance.Navmesh.NavmeshManager.Pathfind">
+            <summary>
+            Vector3 from, Vector3 to, bool fly
+            </summary>
+        </member>
+        <member name="F:TextAdvance.Navmesh.NavmeshManager.NearestPoint">
+            <summary>
+            Vector3 p, float halfExtentXZ, float halfExtentY
+            </summary>
+        </member>
+        <member name="F:TextAdvance.Navmesh.NavmeshManager.PointOnFloor">
+            <summary>
+            Vector3 p, bool allowUnlandable, float halfExtentXZ
+            </summary>
+        </member>
+    </members>
+</doc>

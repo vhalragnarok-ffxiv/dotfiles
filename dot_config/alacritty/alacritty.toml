@@ -1,0 +1,4 @@
+import = [ "/usr/lib/node_modules/alacritty-themes/themes/Dracula.toml" ]
+
+[font]
+normal = { family = "JetBrains Mono NF"}

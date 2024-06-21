@@ -1,5 +1,6 @@
 {
   "$type": "SubmarineTracker.Configuration, SubmarineTracker",
+  "NameOption": 0,
   "ShowExtendedPartsList": false,
   "ShowTimeInOverview": true,
   "UseDateTimeInstead": false,
@@ -7,11 +8,11 @@
   "ShowRouteInOverview": true,
   "ShowOnlyLowest": true,
   "ShowPrediction": true,
-  "UseCharacterName": false,
   "UserResize": false,
   "ShowAll": true,
   "ShowRouteInAll": false,
   "ShowDateInAll": false,
+  "ShowDtrEntry": false,
   "ShowOnlyCurrentFC": false,
   "AutoSelectCurrent": true,
   "ShowRouteOverlay": true,
@@ -25,7 +26,7 @@
   "CustomHour": 42,
   "CustomMinute": 30,
   "NotifyForAll": true,
-  "NotifySpecific": {
+  "NotifyFCSpecific": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib"
   },
   "NotifyForReturns": true,
@@ -37,8 +38,6 @@
   "OverlayOpen": false,
   "OverlayStartUp": false,
   "OverlayAlwaysOpen": false,
-  "OverlayUnminimized": false,
-  "OverlayCharacterName": false,
   "OverlayFirstReturn": false,
   "OverlayShowDate": false,
   "OverlayOnlyReturned": false,
@@ -48,9 +47,35 @@
   "OverlayLockLocation": false,
   "OverlayShowRank": false,
   "OverlayShowBuild": false,
+  "OverlayHoldClosed": false,
+  "OverlayTitleTime": false,
+  "OverlayAllDone": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.12549,
+    "Y": 0.74902,
+    "Z": 0.33333,
+    "W": 0.6
+  },
+  "OverlayPartlyDone": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.81569,
+    "Z": 0.27451,
+    "W": 0.6
+  },
+  "OverlayNoneDone": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.85882,
+    "Y": 0.22745,
+    "Z": 0.20392,
+    "W": 0.6
+  },
   "ExcludeLegacy": false,
-  "CustomLootWithValue": {
-    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib"
+  "CustomLootProfiles": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+    "Default": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.UInt32, System.Private.CoreLib],[System.Int32, System.Private.CoreLib]], System.Private.CoreLib"
+    }
   },
   "DateLimit": 0,
   "ExportExcludeDate": true,
@@ -59,39 +84,33 @@
   "UploadNotification": false,
   "UploadNotificationReceived": "2023-10-09T17:48:41.3561802-05:00",
   "UploadPermission": true,
+  "ShowStorageMessage": true,
+  "IgnoredCharacters": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt64, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
   "SavedBuilds": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[SubmarineTracker.Data.Build+RouteBuild, SubmarineTracker]], System.Private.CoreLib"
   },
-  "FCOrder": [
-    18014498562107850,
-    18014498563694673,
-    18014498570411576,
-    18014498570411596,
-    18014498570411615,
-    18014498570411661,
-    18014498570411685,
-    18014498570411726,
-    18014498570411750,
-    18014498571642049,
-    18014498571642078,
-    18014498571642107,
-    18014498571642122,
-    18014498571642138,
-    18014498571642153,
-    18014498571642169,
-    18014498571657906,
-    18014498571181187,
-    18014498571181239,
-    18014498571181268,
-    18014498571181308,
-    18014498571642187,
-    18014498571657847,
-    18014498571657860,
-    18014498571657873,
-    18014498571657882,
-    18014498571657894,
-    18014498571657919,
-    18014498570732555
+  "FCIdOrder": [
+    9229001536389083495,
+    9237305048202081351,
+    9237305048202095294,
+    9237305048202093857,
+    9237305048202095846,
+    9280652194615399003,
+    9280652194615398944,
+    9280652194615398946,
+    9280652194615398948,
+    9280652194615398949,
+    9280652194615398955,
+    9280652194615398957,
+    9280652194615398959,
+    9280370719638689307,
+    9280370719638689308,
+    9280370719638689311,
+    9280370719638689345,
+    9280370719638689304,
+    9232519973598012184
   ],
   "Version": 1
 }

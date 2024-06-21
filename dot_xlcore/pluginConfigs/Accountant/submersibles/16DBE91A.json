@@ -8,22 +8,22 @@
   "Item2": [
     {
       "Name": "Submersible-1",
-      "Arrival": "2024-06-01T23:55:20Z",
+      "Arrival": "2024-06-21T18:59:33Z",
       "Type": 2
     },
     {
       "Name": "Submersible-2",
-      "Arrival": "2024-06-02T00:20:35Z",
+      "Arrival": "2024-06-21T19:12:03Z",
       "Type": 2
     },
     {
       "Name": "Submersible-3",
-      "Arrival": "2024-06-01T21:06:53Z",
+      "Arrival": "2024-06-21T16:23:06Z",
       "Type": 2
     },
     {
       "Name": "Submersible-4",
-      "Arrival": "2024-06-01T21:07:03Z",
+      "Arrival": "2024-06-21T16:23:15Z",
       "Type": 2
     }
   ]

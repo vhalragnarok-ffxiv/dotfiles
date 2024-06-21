@@ -1,0 +1,18 @@
+﻿{
+  "Version": 2,
+  "Id": "c769e6c6-72ac-4c3c-a096-687603609fd4",
+  "Name": "Default",
+  "Settings": {
+    "Material 4K-UI v6.2.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": false
+    },
+    "Material 4K-UI v6.4.0": {
+      "Settings": {},
+      "Priority": 0,
+      "Enabled": true
+    }
+  },
+  "Inheritance": []
+}

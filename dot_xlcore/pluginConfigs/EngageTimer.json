@@ -55,6 +55,7 @@
     "StopwatchOnlyInDuty": false,
     "StopwatchAsSeconds": false,
     "CountdownNegativeSign": true,
+    "ForceHideWindowBorder": true,
     "Scale": 1.0,
     "ShowPrePulling": false,
     "PrePullOffset": 0.0,

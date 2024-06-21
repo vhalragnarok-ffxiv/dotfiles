@@ -4,7 +4,7 @@
   "DutyFinderTaskbarFlash": true,
   "DutyFinderChatMessage": true,
   "LanguageOverride": "en",
-  "LastVersion": "9.1.0.9",
+  "LastVersion": "9.1.0.12",
   "SeenFtueLevel": 1,
   "LastChangelogMajorMinor": "9.0.",
   "GeneralChatType": 1,
@@ -118,6 +118,7 @@
   "UseAxisFontsFromGame": false,
   "DefaultFontSpec": null,
   "FontGammaLevel": 1.4,
+  "ImeStateIndicatorOpacity": 1.0,
   "ToggleUiHide": true,
   "ToggleUiHideDuringCutscenes": true,
   "ToggleUiHideDuringGpose": true,
@@ -130,6 +131,10 @@
   "LogAutoScroll": true,
   "LogOpenAtStartup": false,
   "LogLinesLimit": 10000,
+  "LogCommandHistory": {
+    "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": []
+  },
   "DevBarOpenAtStartup": false,
   "AssertsEnabledAtStartup": false,
   "IsDocking": false,

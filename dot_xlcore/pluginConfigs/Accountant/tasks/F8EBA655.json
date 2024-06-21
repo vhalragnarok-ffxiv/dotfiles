@@ -6,7 +6,7 @@
   "Item2": {
     "Leves": {
       "Allowances": 0,
-      "LastUpdate": "2024-05-31T00:00:00Z"
+      "LastUpdate": "2024-06-19T12:00:00Z"
     },
     "Squadron": {
       "MissionEnd": "0001-01-01T00:00:00",
@@ -21,7 +21,7 @@
       "Tickets": 0
     },
     "JumboCactpot": {
-      "LastUpdate": "2024-05-27T05:01:05.8309698Z",
+      "LastUpdate": "2024-06-14T00:30:19.6020563Z",
       "Tickets": [
         65535,
         65535,
@@ -30,11 +30,11 @@
     },
     "Delivery": {
       "Allowances": 12,
-      "LastUpdate": "2023-04-07T01:03:42.1478145Z"
+      "LastUpdate": "2024-06-14T00:30:19.5934743Z"
     },
     "Tribe": {
       "Allowances": 12,
-      "LastUpdate": "2023-04-07T01:03:43.9976113Z"
+      "LastUpdate": "2024-06-14T00:30:19.5922209Z"
     }
   }
 }
